@@ -1,0 +1,19 @@
+body {
+  background-color: black;
+}
+
+.start,
+.correction {
+  height: 100vh;
+}
+
+.start-button,
+.correction-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.piano {
+  color: white;
+}
